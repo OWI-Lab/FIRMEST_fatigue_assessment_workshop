@@ -15,3 +15,8 @@ The notebook provides hands-on examples to help participants:
 - Visualize cumulative fatigue damage with respect to time and operational conditions.  
 
 This repository is intended for users interested in **offshore wind turbine structural health monitoring and fatigue analysis**, offering a practical introduction to combining experimental data with database-driven structural insights.
+
+The workshop notebook can be opened on Binder 
+
+## `Fatigue_Assessment.ipynb`
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop.git/HEAD)
