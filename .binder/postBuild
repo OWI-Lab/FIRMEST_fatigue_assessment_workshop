@@ -1,0 +1,8 @@
+#!/bin/bash
+set -ex
+
+# Optional build step
+# python build.py
+
+# Ensure JupyterLab starts in Notebooks folder
+cd Notebooks
