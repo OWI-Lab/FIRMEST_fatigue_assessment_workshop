@@ -5,18 +5,10 @@
         "dock": {
           "type": "tab-area",
           "widgets": [
-            "notebook:notebooks/Fatigue_Assessment.ipynb"
+            "notebook:Notebooks/Fatigue_Assessment.ipynb"
           ],
           "currentIndex": 0
         }
-      },
-      "left": {
-        "collapsed": false,
-        "widgets": ["filebrowser"]
-      },
-      "right": {
-        "collapsed": true,
-        "widgets": []
       }
     }
   },

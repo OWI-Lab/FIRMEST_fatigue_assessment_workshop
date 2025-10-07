@@ -1,8 +1,4 @@
 #!/bin/bash
 set -ex
 
-# Optional build step
-# python build.py
-
-# Ensure JupyterLab starts in Notebooks folder
-cd Notebooks
+conda run -n notebook jupyter lab workspaces import .binder/workspace.json
