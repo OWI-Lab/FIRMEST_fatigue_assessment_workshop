@@ -19,4 +19,4 @@ This repository is intended for users interested in **offshore wind turbine stru
 The workshop notebook can be opened on Binder 
 
 ## `Fatigue_Assessment.ipynb`
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?filepath=Notebooks/Fatigue_Assessment.ipynb)
