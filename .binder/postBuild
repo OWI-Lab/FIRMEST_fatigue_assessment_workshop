@@ -1,4 +1,0 @@
-#!/bin/bash
-set -ex
-
-conda run -n notebook jupyter lab workspaces import .binder/workspace.json
