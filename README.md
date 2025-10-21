@@ -21,7 +21,7 @@ The workshop notebook can be opened on Binder
 ## 🧩 Running on Binder
 
 You can explore and run each notebook interactively using **Binder**, without installing anything locally.  
-Each Binder link below will launch **JupyterLab** in your browser and automatically open the corresponding notebook.
+Each Binder link below will launch **classic Jupyter Notebook interface** in your browser and automatically open the corresponding notebook.
 
 > 💡 It may take a few minutes for Binder to start the first time (it’s building the environment).  
 > Once the environment is ready, notebooks will load instantly on subsequent launches.
@@ -32,7 +32,7 @@ Each Binder link below will launch **JupyterLab** in your browser and automatica
 
 This notebook introduces the OWI Meta Database geometry and resistance parameters.
 
-[![Launch Geometry & Resistance Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?urlpath=lab/tree/Notebooks/1.Geometry_Resistance_OWIMetaDataBase.ipynb)
+[![Launch Geometry & Resistance Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?filepath=Notebooks/1.Geometry_Resistance_OWIMetaDataBase.ipynb)
 
 ---
 
@@ -40,7 +40,8 @@ This notebook introduces the OWI Meta Database geometry and resistance parameter
 
 This notebook covers preprocessing and conditioning of SCADA or simulation load data for fatigue analysis.
 
-[![Launch Load Processing Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?urlpath=lab/tree/Notebooks/2.Load_Processing.ipynb)
+[![Launch Load Processing Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?filepath=Notebooks/2.Load_Processing.ipynb)
+
 
 ---
 
@@ -48,7 +49,8 @@ This notebook covers preprocessing and conditioning of SCADA or simulation load 
 
 This notebook performs the fatigue analysis using processed load data and stress cycle counting.
 
-[![Launch Fatigue Assessment Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?urlpath=lab/tree/Notebooks/3.Fatigue_Assessment.ipynb)
+[![Launch Fatigue Assessment Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?filepath=Notebooks/3.Fatigue_Assessment.ipynb)
+
 
 ---
 
@@ -64,8 +66,8 @@ This notebook performs the fatigue analysis using processed load data and stress
 
 | Notebook | Purpose | Binder Link |
 |-----------|----------|--------------|
-| 1️⃣ 1.Geometry_Resistance_OWIMetaDataBase.ipynb | Explore geometry & resistance metadata | [Open](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?urlpath=lab/tree/Notebooks/1.Geometry_Resistance_OWIMetaDataBase.ipynb) |
-| 2️⃣ 2.Load_Processing.ipynb | Process SCADA/load data | [Open](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?urlpath=lab/tree/Notebooks/2.Load_Processing.ipynb) |
-| 3️⃣ 3.Fatigue_Assessment.ipynb | Perform fatigue analysis | [Open](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?urlpath=lab/tree/Notebooks/3.Fatigue_Assessment.ipynb) |
+| 1️⃣ 1.Geometry_Resistance_OWIMetaDataBase.ipynb | Explore geometry & resistance metadata | [Open](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?filepath=Notebooks/1.Geometry_Resistance_OWIMetaDataBase.ipynb) |
+| 2️⃣ 2.Load_Processing.ipynb | Process SCADA/load data | [Open](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?filepath=Notebooks/2.Load_Processing.ipynb) |
+| 3️⃣ 3.Fatigue_Assessment.ipynb | Perform fatigue analysis | [Open](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?filepath=Notebooks/3.Fatigue_Assessment.ipynb) |
 
 ---
